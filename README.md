@@ -1,0 +1,2 @@
+# emojidictionary
+Created with CodeSandbox
